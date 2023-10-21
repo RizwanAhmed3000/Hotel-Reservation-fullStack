@@ -7,7 +7,7 @@ export default function Navbar() {
                 <span className="logo">Booking</span>
                 <div className="navBtns">
                     <button className='navBtn'>Register</button>
-                    <button className='navBtn'>Login</button>
+                    <button className='navBtn aaa'>Login</button>
                 </div>
             </div>
         </div>
